@@ -47,8 +47,9 @@ Step4: Hit run in Android studio and hope all is good
 #### 5: Update the features that you need under TILEs_phase2_core_lld. The default config file disables the saving for raw audio.
 
 
+================
 
-## References
+### References
 
 <a id="1">[1]</a> 
 Feng, Tiantian, et al. (2018). 
