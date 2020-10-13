@@ -382,7 +382,7 @@ public class Bluetooth_Scan_Exp extends Service{
         Log.d(Constants.DEBUG_BT, "Time of the day: " + Integer.toString(hours));
 
         Log.d(Constants.DEBUG_BT, "Time of the day: " + Double.toString(time));
-        Utils.writeSharedPreference(getApplicationContext(), Constants.OPEN_SMILE_SAMPLE_MODE, Integer.toString(Constants.NORMAL_SAMPLE));
+        // Utils.writeSharedPreference(getApplicationContext(), Constants.OPEN_SMILE_SAMPLE_MODE, Integer.toString(Constants.NORMAL_SAMPLE));
 
     }
 
