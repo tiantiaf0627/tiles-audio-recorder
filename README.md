@@ -29,6 +29,8 @@ Step4: Hit run in Android studio and hope all is good
 ================
 ### Usage Notice
 
+### 0: Very important, remove the system settings that disable the app to run in the background, or battery optimization. Every Android system is slightly different .
+
 #### 1: We keep the QR code scan procedure in our application, so it would be easy for researcher to manage the enrollment. The QR code string will be the participant id. The QR code string should contain 'tar' if the QR code scan code is not modified. For example QR code string tar0001 will look like:
 
 <p align="center">
