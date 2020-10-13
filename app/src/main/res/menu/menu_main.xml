@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tar.MainActivity">
+
+    <item
+        android:id="@+id/enable_permission"
+        android:title="Enable Permission" />
+
+    <item
+        android:id="@+id/scan_qr_code"
+        android:title="Scan QR code" />
+
+    <item
+        android:id="@+id/set_sample_int"
+        android:title="Audio Sample Length" />
+</menu>

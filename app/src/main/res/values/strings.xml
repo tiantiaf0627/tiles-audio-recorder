@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TAR</string>
+    <string name="action_settings">Settings</string>
+    <string name="turn_on_off_bt_tx">Turn On</string>
+    <string name="sample_prompt">Choose a sample interval</string>
+
+    <string-array name="sample_arrays">
+        <item>20 Seconds</item>
+        <item>30 Seconds</item>
+        <item>40 Seconds</item>
+    </string-array>
+
+</resources>
