@@ -5,7 +5,7 @@ The repo is for TILES AUDIO RECORER Android application <br /> <br />
 Author: Tiantian Feng <br />
 Contact: tiantiaf@usc.edu <br /> <br />
 
-Notice: We are constantly updating our TAR Android application for a future release. If you are interested in certain features in our application, please send me the email, and I will get back to you ASAP. Note this code is used for more generalized purpose, thus certain specific features and functions presented in our paper/data collection may be removed. The figure below showed the hardware setup we used for our research. The current code works for the Android system 8.0.
+Notice: We are constantly updating and cleaning our TILES AUDIO RECORER Android application for a future release. If you are interested in certain features in our application, please send me the email, and I will get back to you ASAP. Note this code is used for more generalized purpose, thus certain specific features and functions presented in our paper/data collection may be removed. The figure below showed the hardware setup we used for our research. The current code works for the Android system 8.0.
 
 
 <p align="center">
@@ -60,15 +60,3 @@ Proceedings of the 4th ACM Workshop on Wearable Systems and Applications.
 Eyben, Florian, Martin Wöllmer, and Björn Schuller (2010). 
 Opensmile: the munich versatile and fast open-source audio feature extractor.
 Proceedings of the 18th ACM international conference on Multimedia.
-
-
-
-#container {
-    height:100px;
-    line-height:100px;
-}
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
